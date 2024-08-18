@@ -17,6 +17,6 @@ I am open to collaborations and suggestions. If you have ideas on how to improve
 ## Contact
 
 - **Email**: [improjtech@gmail.com](mailto:improjtech@gmail.com)
-- **YouTube**: [IMprojtech Channel](https://www.youtube.com/@improjtechh)
+- **YouTube**: [IMprojtech Channel](https://www.youtube.com/@improjtech)
 
 Thank you for visiting my profile! I'm excited to share these projects with you and look forward to seeing where our ideas will take us.

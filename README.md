@@ -1,22 +1,41 @@
-# Welcome to the IMprojtech Profile!
 
-Hi! My name is **Mirko Catoni**, and this is my space on GitHub, where I share projects designed to simplify certain tasks that I personally find tedious or repetitive.
+---
 
-## My Projects
+# Welcome to the IMprojtech GitHub Profile
 
-The repositories you'll find here are collections of tools and programs that I've created to solve specific problems I've encountered. These projects are **"raw"** — meaning they are functional, but developed by me, and I am not a professional. They represent my personal approach to problem-solving and are designed to be useful, though they might not be refined or fully optimized.
+Hi, I'm **Mirko Catoni**.
 
-## My Philosophy
+I have a strong passion for **offensive cybersecurity**, with a particular focus on **reversing, binary analysis, and exploit development**.
 
-The idea behind these projects is simple: **share to improve**. I hope these repositories can serve as a starting point or inspiration for others who face similar problems or situations. I would love to see these projects grow and improve with contributions from other users. If you find one of my projects useful or think you can enhance it, you are welcome to contribute!
+Linux is my natural environment. I primarily program in **C** (a language I have studied and used extensively), along with **Rust and scripting**, building practical tools focused on efficiency and technical experimentation.
 
-## Contribute and Collaborate
+I regularly work on **CTF challenges and wargames in virtualized environments**, using them as a technical laboratory to test my skills, explore offensive techniques, and deepen my understanding of systems in a practical and controlled setting.
 
-I am open to collaborations and suggestions. If you have ideas on how to improve one of my projects or if you just want to share your thoughts, feel free to create a pull request or contact me directly. Together, we can turn these "raw" tools into powerful and useful resources for many others.
+I am also interested in **electronics, 3D design, and prototyping**, integrating software and hardware whenever possible in my projects.
+
+Here I share tools, automations, and prototypes that arise from the desire to improve the way I work and to better understand systems at a deeper level.
+
+---
+
+## Approach
+
+* **Hands-on and technical:** I prefer building, testing, and fully understanding how systems work.
+* **Continuous growth:** every project is an opportunity to learn and improve.
+* **Open to collaboration:** I’m interested in new projects and working with other enthusiasts to build something more structured and ambitious together.
+
+---
+
+## Collaboration
+
+If you'd like to discuss ideas or propose a collaboration:
+
+* Open an Issue
+* Submit a Pull Request
+* Contact me directly
+
+---
 
 ## Contact
 
 - **Email**: [improjtech@gmail.com](mailto:improjtech@gmail.com)
 - **YouTube**: [IMprojtech Channel](https://www.youtube.com/@improjtech)
-
-Thank you for visiting my profile! I'm excited to share these projects with you and look forward to seeing where our ideas will take us.
